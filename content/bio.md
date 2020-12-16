@@ -3,7 +3,9 @@ description: About Me
 title: About Me
 ---
 
-<p><img style="width: 300px; float: right; margin: 0 0 20px 20px;" alt="Lisa McNulty" src="/img/bio/profilepic15.JPG" /></p>
+<div style="headshot">
+<img style="width: 300px; float: right; margin: 0 0 20px 20px; clear: both" alt="Lisa McNulty" src="/img/bio/profilepic15.JPG" />
+</div>
 
 
 I study philosophy because a computer told me to.  Specifically, my tech-savvy school set me an aptitude test which pronounced that the university degree I was most suited for was philosophy. Having no clue what this was, I bought a copy of Bertrand Russell's *The Problems of Philosophy* and felt like I'd met an old friend. There it all began.

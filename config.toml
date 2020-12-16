@@ -77,15 +77,15 @@ unsafe= true
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
+    author = "Lisa McNulty"
+    defaultKeywords = ["Philosophy", "Epistemology", "Training"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultDescription = "Lisa Mcnulty, Consulting philosopher"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    twitter_site = "LisaIRMcNulty" # the Twitter handle of your site (without the '@')
+    default_sharing_image = "img/bio/profilepic15.JPG"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     #enableGoogleMaps = true

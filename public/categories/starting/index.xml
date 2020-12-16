@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>starting on Lisa McNulty</title>
-    <link>/categories/starting/</link>
+    <link>https://www.lisamcnulty.co.uk/categories/starting/</link>
     <description>Recent content in starting on Lisa McNulty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lisamcnulty.co.uk/categories/starting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Not-So-Golden Rule</title>
-      <link>/blog/2020/12/10/the-not-so-golden-rule/</link>
+      <link>https://www.lisamcnulty.co.uk/blog/2020/12/10/the-not-so-golden-rule/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020/12/10/the-not-so-golden-rule/</guid>
+      <guid>https://www.lisamcnulty.co.uk/blog/2020/12/10/the-not-so-golden-rule/</guid>
       <description>So, first off: The Golden Rule is bunk.
 The central tenet, “treat others as you want to be treated” (sufficiently culturally embedded that my writing software auto-completes the phrase) appears in some form in every major world religion, as well as secular humanism and existentialism. It is a sentiment so universal as to be considered morally obvious.
 This approach to ethics is based on empathy, on the ability to literally feel the emotions of another person.</description>
